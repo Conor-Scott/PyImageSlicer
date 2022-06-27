@@ -2,8 +2,8 @@
 Separates sprites from an image automatically and saves them into individual files.
 
 
-##Example Input
-![Example Input](https://imgur.com/5PArrA2)
+## Example Input
+![Example Input](https://imgur.com/5PArrA2.png)
 
 ##Example Outputs
 ![Example Output 1](https://imgur.com/cNm5Trx)

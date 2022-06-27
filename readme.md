@@ -1,5 +1,11 @@
 # Python Image Slicer
-Separates sprites from an image automatically by detecting transparent pixels, and saves them into individual files. 
+Separates sprites from an image automatically by detecting transparent pixels, and saves them into individual files.
+
+<ins>Run Instructions:</ins>
+
+>Python main.py filename 
+
+
 
 
 ## Example Input

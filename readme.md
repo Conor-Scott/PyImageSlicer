@@ -13,4 +13,4 @@ Separates sprites from an image automatically and saves them into individual fil
 ![Example Output 3](https://imgur.com/hzAPd9g.png)\
 ![Example Output 4](https://imgur.com/DO8PRA0.png)\
 ![Example Output 5](https://imgur.com/y7Mdz6f.png)\
-![Example Output 6](https://imgur.com/MrVjiNJ.png)\
+![Example Output 6](https://imgur.com/MrVjiNJ.png)
